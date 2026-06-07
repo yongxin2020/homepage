@@ -3,9 +3,11 @@ title = "About"
 
 [profile]
 research_interests = [
-  "Computational Physics",
-  "Mathematical Principles",
-  "Proof of Theorems"
+  "LLM Explainability & Mechanistic Interpretability",
+  "LLM Trustworthiness (Robustness, Bias)",
+  "NLG Evaluation",
+  "Clinical NLP",
+  "Scientific Fact Verification"
 ]
 
 [[sections]]

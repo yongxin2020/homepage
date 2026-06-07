@@ -3,25 +3,7 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
-title = "Example Award"
-subtitle = "Organization"
+title = "Best Evaluation Award"
+subtitle = "INLG 2025 — 18th International Natural Language Generation Conference"
 date = "2025"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2024"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2023"
-content = "Description of the award."
-
-[[items]]
-title = "Example Award"
-subtitle = "Organization"
-date = "2022"
-content = "Description of the award."
+content = "Awarded for the paper \"Can GPT models Follow Human Summarization Guidelines? A Study for Targeted Communication Goals\" (Hanoi, Vietnam, November 2025)."

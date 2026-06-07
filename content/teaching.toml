@@ -3,8 +3,22 @@ title = "Teaching"
 description = "Courses I have taught or assisted with."
 
 [[items]]
-title = "Example Course"
-subtitle = "Teaching Assistant"
-date = "2024"
-content = "Description of the course and responsibilities. Content of this course can be found [here](https://example.com)."
-tags = ["Undergraduate", "CS"]
+title = "Advanced Models of Machine Learning"
+subtitle = "Teaching Assistant (Exercise Classes, M2) · Master Industries de la Langue, Université Grenoble Alpes"
+date = "2021–2022"
+content = "Exercise classes for the M2 course on advanced machine learning models. Taught in two consecutive years: 10/2021–12/2021 and 09/2022–12/2022."
+tags = ["M2", "NLP", "Machine Learning"]
+
+[[items]]
+title = "Automatic Text Generation"
+subtitle = "Teaching Assistant (Exercise Classes, M2) · Master Industries de la Langue, Université Grenoble Alpes"
+date = "2021–2022"
+content = "Exercise classes for the M2 course on automatic text generation. Taught in two consecutive years: 10/2021–12/2021 and 09/2022–12/2022."
+tags = ["M2", "NLP", "NLG"]
+
+[[items]]
+title = "ALPS 2022 — Advanced Language Processing School"
+subtitle = "Teaching Assistant · Université Grenoble Alpes"
+date = "2022"
+content = "Teaching assistant at [ALPS 2022](http://alps-2022.imag.fr/index.html), an advanced school on natural language processing."
+tags = ["NLP", "Summer School"]

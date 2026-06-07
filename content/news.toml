@@ -1,7 +1,27 @@
 [[news]]
-date = "2025-11"
-content = "Our work has been accepted by a prestigious journal 🎉"
+date = "2026-05"
+content = "I will be attending [LREC 2026](https://lrec2026.info/) (Palma, Mallorca) in person — presenting TempPerturb-Eval as an oral presentation."
 
 [[news]]
-date = "2025-09"
-content = "Starting my PhD at the University of Example"
+date = "2026-05"
+content = "New preprint out: [Automated Clinical Report Generation for Remote Cognitive Remediation: Comparing Knowledge-Engineered Templates and LLMs in Low-Resource Settings](https://arxiv.org/abs/2605.06594)"
+
+[[news]]
+date = "2026-03"
+content = "I will be attending [EACL 2026](https://2026.eacl.org/) (Rabat, Morocco) in person."
+
+[[news]]
+date = "2026-02"
+content = "Two papers accepted to LREC 2026: first-authored on joint effects of temperature and perturbations in RAG robustness, and co-authored on a multi-domain dataset for scientific citation verification."
+
+[[news]]
+date = "2026-01"
+content = "\"What Matters to an LLM? Behavioral and Computational Evidences from Summarization\" has been accepted to the Findings of EACL 2026. [arXiv preprint](https://www.arxiv.org/abs/2602.00459) available."
+
+[[news]]
+date = "2025-12"
+content = "New preprint: [TempPerturb-Eval: On the Joint Effects of Internal Temperature and External Perturbations in RAG Robustness](https://www.arxiv.org/abs/2512.01183)"
+
+[[news]]
+date = "2025-11"
+content = "Our paper received the 🏆 Best Evaluation Award at [INLG 2025](https://2025.inlgmeeting.org/)!"

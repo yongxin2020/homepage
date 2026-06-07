@@ -1,5 +1,5 @@
-I am a PhD student at the School of Science, University of Example, advised by [Prof. Advisor One](https://example.com) and [Dr. Advisor Two](https://example.com).
+I am a postdoctoral researcher at [CNRS](https://www.cnrs.fr/en) and the [Grenoble Computer Science Laboratory (LIG)](https://www.liglab.fr/en), working with [Maxime Peyrard](https://peyrardm.github.io) on explanation of AI systems by causal abstraction. Previously, I was a postdoctoral researcher at LIG (2024–2025), working with [Philippe Mulhem](https://lig-membres.imag.fr/mulhem/) and [Didier Schwab](https://cv.hal.science/didier-schwab) on information retrieval, RAG, and explainability. I obtained my PhD in Computer Science from [Université Grenoble Alpes](https://www.univ-grenoble-alpes.fr/) in 2024, supervised by [François Portet](https://lig-membres.imag.fr/portet/home.php) and [Fabien Ringeval](https://sites.google.com/site/fabienringeval/).
 
-Prior to this, I obtained a BSc degree with First Class Honours in Natural Science from the University of Example.
+My research investigates the **explainability**, **trustworthiness**, and **evaluability** of large language models — spanning mechanistic interpretability, robustness and fairness, and task-specific evaluation for high-stakes domains such as **clinical NLG** and **scientific fact verification**.
 
-My current research focuses on investigating the mathematical principles of natural philosophy.
+I'm open to collaborations and discussions — feel free to reach out!
