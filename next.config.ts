@@ -1,11 +1,16 @@
 import type { NextConfig } from "next";
 
+const basePath = '/homepage';
+
 const nextConfig: NextConfig = {
   output: 'export',
   trailingSlash: true,
-  basePath: '/homepage',
+  basePath,
   images: {
     unoptimized: true,
+  },
+  env: {
+    NEXT_PUBLIC_BASE_PATH: basePath,
   },
   /* config options here */
   webpack: (config) => {
