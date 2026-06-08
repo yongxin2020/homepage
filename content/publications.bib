@@ -29,7 +29,7 @@
   doi = {10.18653/v1/2026.findings-eacl.302},
   url = {https://aclanthology.org/2026.findings-eacl.302/},
   abstract = {Large Language Models (LLMs) are now state-of-the-art at summarization, yet the internal notion of importance that drives their information selections remains hidden. We propose to investigate this by combining behavioral and computational analyses. Behaviorally, we generate a series of length-controlled summaries for each document and derive empirical importance distributions based on how often each information unit is selected. These reveal that LLMs converge on consistent importance patterns, sharply different from pre-LLM baselines, and that LLMs cluster more by family than by size. Computationally, we identify that certain attention heads align well with empirical importance distributions, and that middle-to-late layers are strongly predictive of importance. Together, these results provide initial insights into what LLMs prioritize in summarization and how this priority is internally represented, opening a path toward interpreting and ultimately controlling information selection in these models.},
-  description = {Behavioral and computational study of LLM informational preferences in summarization, revealing divergence from human judgment.},
+  description = {Behavioral and computational study of LLM informational preferences in summarization, revealing divergence from pre-LLM baselines.},
   keywords = {LLM Explainability, Summarization, Evaluation, Behavioral Analysis}
 }
 
@@ -73,7 +73,7 @@
   address = {Hanoi, Vietnam},
   url = {https://aclanthology.org/2025.inlg-main.17/},
   abstract = {This study investigates the ability of GPT models (ChatGPT, GPT-4 and GPT-4o) to generate dialogue summaries that adhere to human guidelines. Our evaluation involved experimenting with various prompts to guide the models in complying with guidelines on two datasets: DialogSum (English social conversations) and DECODA (French call center interactions). Human evaluation, based on summarization guidelines, served as the primary assessment method, complemented by extensive quantitative and qualitative analyses. Our findings reveal a preference for GPT-generated summaries over those from task-specific pre-trained models and reference summaries, highlighting GPT models' ability to follow human guidelines despite occasionally producing longer outputs and exhibiting divergent lexical and structural alignment with references. The discrepancy between ROUGE, BERTScore, and human evaluation underscores the need for more reliable automatic evaluation metrics.},
-  description = {Evaluation of GPT models' ability to follow expert-crafted summarization guidelines for targeted clinical communication goals.},
+  description = {Evaluation of GPT models' ability to follow expert-crafted summarization guidelines for targeted communication goals.},
   keywords = {NLG, Summarization, GPT, Evaluation, Clinical NLP},
   note = {🏆 Best Evaluation Award · 🎤 Oral Presentation}
 }
@@ -105,7 +105,7 @@
   address = {Torino, Italia},
   url = {https://aclanthology.org/2024.lrec-main.827/},
   abstract = {Pretrained Language Models (PLMs) are the de facto backbone of most state-of-the-art NLP systems. In this paper, we introduce a family of domain-specific pretrained PLMs for French, focusing on three important domains: transcribed speech, medicine, and law. We use a transformer architecture based on efficient methods (LinFormer) to maximise their utility, since these domains often involve processing long documents. We evaluate and compare our models to state-of-the-art models on a diverse set of tasks and datasets, some of which are introduced in this paper. We gather the datasets into a new French-language evaluation benchmark for these three domains. We also compare various training configurations: continued pretraining, pretraining from scratch, as well as single- and multi-domain pretraining. Extensive domain-specific experiments show that it is possible to attain competitive downstream performance even when pre-training with the approximative LinFormer attention mechanism. For full reproducibility, we release the models and pretraining data, as well as contributed datasets.},
-  description = {A suite of French specialized language models and evaluation tasks across legal, medical, and scientific domains.},
+  description = {A suite of French specialized language models and evaluation tasks across transcribed speech, medical, and legal domains.},
   keywords = {French NLP, Language Models, Specialized Domains, Evaluation}
 }
 
@@ -136,7 +136,7 @@
   address = {Marseille, France},
   url = {https://aclanthology.org/2022.lrec-1.382/},
   abstract = {Pre-trained language models have established the state-of-the-art on various natural language processing tasks, including dialogue summarization, which allows the reader to quickly access key information from long conversations in meetings, interviews or phone calls. However, such dialogues are still difficult to handle with current models because the spontaneity of the language involves expressions that are rarely present in the corpora used for pre-training the language models. Moreover, the vast majority of the work accomplished in this field has been focused on English. In this work, we present a study on the summarization of spontaneous oral dialogues in French using several language specific pre-trained models: BARThez, and BelGPT-2, as well as multilingual pre-trained models: mBART, mBARThez, and mT5. Experiments were performed on the DECODA (Call Center) dialogue corpus whose task is to generate abstractive synopses from call center conversations between a caller and one or several agents depending on the situation. Results show that the BARThez models offer the best performance far above the previous state-of-the-art on DECODA. We further discuss the limits of such pre-trained models and the challenges that must be addressed for summarizing spontaneous dialogues.},
-  description = {Benchmarking French pre-trained language models for abstractive dialogue summarization in a clinical low-resource setting.},
+  description = {Benchmarking French pre-trained language models for abstractive dialogue summarization on the DECODA call center corpus.},
   keywords = {French NLP, Dialogue Summarization, Language Models, NLG}
 }
 
@@ -164,7 +164,7 @@
   doi = {10.1007/978-3-030-82017-6_10},
   url = {https://link.springer.com/chapter/10.1007/978-3-030-82017-6_10},
   abstract = {We explored the potential contribution of eXplainable Artificial Intelligence (XAI) for the evaluation of Artificial Intelligence (AI), in a context where such an evaluation is performed by independent third-party evaluators, for example in the objective of certification. The experimental approach of this paper is based on "explainable by design" decision trees that produce predictions on health data and bank data. Results presented in this paper show that the explanations could be used by the evaluators to identify the parameters used in decision making and their levels of importance. The explanations would thus make it possible to orient the constitution of the evaluation corpus, to explore the rules followed for decision-making and to identify potentially critical relationships between different parameters. In addition, the explanations make it possible to inspect the presence of bias in the database and in the algorithm. These first results lay the groundwork for further additional research in order to generalize the conclusions of this paper to different XAI methods.},
-  description = {An XAI-assisted framework for third-party AI system evaluation, illustrated on decision trees with perturbation-based explanations.},
+  description = {An XAI-assisted framework for third-party AI system evaluation, illustrated on explainable-by-design decision trees over health and financial data.},
   keywords = {XAI, AI Evaluation, Explainability, Decision Trees, Certification}
 }
 
