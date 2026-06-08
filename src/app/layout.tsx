@@ -24,7 +24,12 @@ export async function generateMetadata(): Promise<Metadata> {
     creator: config.author.name,
     publisher: config.author.name,
     icons: {
-      icon: config.site.favicon,
+      icon: [
+        {
+          url: config.site.favicon,
+          type: config.site.favicon.endsWith('.svg') ? 'image/svg+xml' : undefined,
+        },
+      ],
     },
     openGraph: {
       type: 'website',
