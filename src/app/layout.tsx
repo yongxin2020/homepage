@@ -26,7 +26,7 @@ export async function generateMetadata(): Promise<Metadata> {
     icons: {
       icon: [
         {
-          url: config.site.favicon,
+          url: `${process.env.NEXT_PUBLIC_BASE_PATH ?? ''}${config.site.favicon}`,
           type: config.site.favicon.endsWith('.svg') ? 'image/svg+xml' : undefined,
         },
       ],
