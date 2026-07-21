@@ -4,9 +4,9 @@ description = "Professional services and community involvement."
 
 [[items]]
 title = "Conference Reviewer"
-subtitle = "ACL Rolling Review · COLING · LREC-COLING · LREC · GEM · ACII"
+subtitle = "ACL Rolling Review · COLING · LREC-COLING · LREC · GEM · ACII · INLG"
 date = "2022–2026"
-content = "Reviewing for ACL Rolling Review (2025, 2026), COLING (2025), LREC-COLING (2024), ACII (2023), GEM (2022, 2023, 2025, 2026), LREC (2022, 2026)."
+content = "Reviewing for ACL Rolling Review (2025, 2026), COLING (2025), LREC-COLING (2024), ACII (2023), GEM (2022, 2023, 2025, 2026), INLG (2026), LREC (2022, 2026)."
 
 [[items]]
 title = "Area Chair"
@@ -16,9 +16,13 @@ content = "Served as Area Chair for ACL Rolling Review 2025."
 
 [[items]]
 title = "Workshop Organizer"
-subtitle = "DIAG-LLM Workshop @ CORIA-TALN 2025"
-date = "2025"
-content = "Co-organised the [DIAG-LLM workshop](https://diagllm2025.sciencesconf.org/) on dialogue-based information access and large language models at CORIA-TALN 2025 (Marseille), addressing conversational IR, retrieval-augmented generation, explainability, and robustness. Also organised social activities at [ALPS 2021](http://alps-2021.imag.fr/index.html)."
+subtitle = "YNLG 2026 · DIAG-LLM Workshop @ CORIA-TALN 2025"
+date = "2025–2026"
+content = """Co-organised the following workshops:
+- **[YNLG 2026](https://ynlg-workshop.github.io/)** — 2nd Workshop for Young Researchers in Natural Language Generation, co-located with INLG 2026.
+- **[DIAG-LLM](https://diagllm2025.sciencesconf.org/)** — Workshop on dialogue-based information access and large language models, at CORIA-TALN 2025 (Marseille), addressing conversational IR, retrieval-augmented generation, explainability, and robustness.
+
+Also organised social activities at [ALPS 2021](http://alps-2021.imag.fr/index.html)."""
 
 [[items]]
 title = "Mentorship"
@@ -26,8 +30,8 @@ subtitle = "Master Internship Supervision"
 date = "2021–Present"
 content = """Supervising and co-supervising master internships:
 - **M2 Internship:** Darpan Aswal (Université Paris-Saclay), *Observable Patterns Are Not Explanations: A Causal-Geometric Analysis of Latent Reasoning Models*, co-supervised with Maxime Peyrard (03/2026 – Present)
-- **M1 Internship:** Gleb Mikheev (M1 MOSIG, Université Grenoble Alpes), *Activation Steering for Meta-Cognitive Distillation in Large Language Models: Training-Data Familiarity*, co-supervised with Maxime Peyrard (02/2026 – Present)
-- **M2 Internship:** Li Mou (Master MOSIG, Université Grenoble Alpes), *Natural Language Grounding through Dense Video Captioning*, [Multi3Generation](https://multi3generation.eu/2021/11/09/report-of-short-stsm-visit-by-francois-portet-france-to-albert-gatt-malta/), co-supervised with [Prof. François Portet](https://lig-membres.imag.fr/portet/home.php) and Prof. Albert Gatt (02/2021 – 07/2021)"""
+- **M1 Internship:** Gleb Mikheev (M1 MOSIG, Université Grenoble Alpes), *Activation Steering for Meta-Cognitive Distillation in Large Language Models: Training-Data Familiarity*, co-supervised with Maxime Peyrard (02/2026 – 06/2026)
+- **M2 Internship:** Li Mou (Master MOSIG, Université Grenoble Alpes), *Natural Language Grounding through Dense Video Captioning*, [Multi3Generation](https://multi3generation.eu/2021/11/09/report-of-short-stsm-visit-by-francois-portet-france-to-albert-gatt-malta/), co-supervised with Prof. François Portet and Prof. Albert Gatt (02/2021 – 07/2021)"""
 
 [[items]]
 title = "Conference Volunteer"
