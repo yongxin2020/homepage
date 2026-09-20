@@ -4,17 +4,24 @@ description = "Courses I have taught or assisted with."
 
 [[items]]
 title = "Advanced Models of Machine Learning"
-subtitle = "Teaching Assistant (Exercise Classes, M2) · Master Industries de la Langue, Université Grenoble Alpes"
+subtitle = "TP Sessions (in French), M2 · Master Industries de la Langue, Université Grenoble Alpes"
 date = "2021–2022"
-content = "Exercise classes for the M2 course on advanced machine learning models. Taught in two consecutive years: 10/2021–12/2021 and 09/2022–12/2022."
+content = "French TP sessions (M2), first semester (Sep-Dec) in 2021 and 2022."
 tags = ["M2", "NLP", "Machine Learning"]
 
 [[items]]
 title = "Automatic Text Generation"
-subtitle = "Teaching Assistant (Exercise Classes, M2) · Master Industries de la Langue, Université Grenoble Alpes"
-date = "2021–2022"
-content = "Exercise classes for the M2 course on automatic text generation. Taught in two consecutive years: 10/2021–12/2021 and 09/2022–12/2022."
+subtitle = "TP Sessions (in French), M2 · Master Industries de la Langue, Université Grenoble Alpes"
+date = "2021–2022, 2026"
+content = "French TP sessions for the M2 course, first semester (Sep-Dec) in 2021 and 2022; scheduled again in 2026."
 tags = ["M2", "NLP", "NLG"]
+
+[[items]]
+title = "MCXA0047 Medical text mining"
+subtitle = "TP Sessions, M2 · AI4OneHealth Master Program, Université Grenoble Alpes"
+date = "2026"
+content = "TP sessions in the first semester (Sep-Dec) of 2026. Course within the [AI4OneHealth Master program of Université Grenoble Alpes](https://www.masterai4onehealth.eu/)."
+tags = ["M2", "NLP", "Medical NLP", "AI4OneHealth"]
 
 [[items]]
 title = "ALPS 2022 — Advanced Language Processing School"

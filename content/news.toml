@@ -1,4 +1,8 @@
 [[news]]
+date = "2026-08"
+content = "One co-authored paper accepted to EMNLP 2026: [Observable Patterns Are Not Explanations: A Causal-Geometric Analysis of Latent Reasoning Models](https://arxiv.org/abs/2606.12689)"
+
+[[news]]
 date = "2026-05"
 content = "I will be attending [LREC 2026](https://lrec2026.info/) (Palma, Mallorca) in person — presenting TempPerturb-Eval as an oral presentation."
 
