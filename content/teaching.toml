@@ -11,9 +11,9 @@ tags = ["M2", "NLP", "Machine Learning"]
 
 [[items]]
 title = "Automatic Text Generation"
-subtitle = "TP Sessions (in French), M2 · Master Industries de la Langue, Université Grenoble Alpes"
+subtitle = "TP and CM Sessions (in French), M2 · Master Industries de la Langue, Université Grenoble Alpes"
 date = "2021–2022, 2026"
-content = "French TP sessions for the M2 course, first semester (Sep-Dec) in 2021 and 2022; scheduled again in 2026."
+content = "French TP sessions for the M2 course, first semester (Sep-Dec) in 2021 and 2022; TP and CM sessions in 2026."
 tags = ["M2", "NLP", "NLG"]
 
 [[items]]
